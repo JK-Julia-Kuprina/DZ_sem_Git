@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\bin\Debug\net6.0\DZ_sem_Git.exe
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\bin\Debug\net6.0\DZ_sem_Git.deps.json
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\bin\Debug\net6.0\DZ_sem_Git.runtimeconfig.json
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\bin\Debug\net6.0\DZ_sem_Git.dll
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\bin\Debug\net6.0\DZ_sem_Git.pdb
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.dll
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\refint\DZ_sem_Git.dll
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.pdb
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\DZ_sem_Git.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\dz_seminar_git1\DZ_sem_Git\obj\Debug\net6.0\ref\DZ_sem_Git.dll
